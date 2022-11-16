@@ -1,2 +1,2 @@
 # udacity_projects
-A collection of projects done while learning with Udacity
+A collection of projects I did while learning with Udacity
